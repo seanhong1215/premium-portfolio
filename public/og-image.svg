@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#050507"/>
+  <circle cx="260" cy="160" r="210" fill="#0369a1" opacity=".24"/>
+  <circle cx="930" cy="130" r="190" fill="#14b8a6" opacity=".16"/>
+  <path d="M0 500C180 420 330 438 520 472s356 83 680-57v215H0Z" fill="#18181b"/>
+  <text x="88" y="252" fill="#fafafa" font-family="Arial, sans-serif" font-size="68" font-weight="700">Sean Hong</text>
+  <text x="92" y="330" fill="#a1a1aa" font-family="Arial, sans-serif" font-size="34">Vue.js / React / API / Cloud</text>
+  <rect x="92" y="394" width="342" height="58" rx="12" fill="#fafafa"/>
+  <text x="122" y="432" fill="#09090b" font-family="Arial, sans-serif" font-size="24" font-weight="700">Taiwan Portfolio</text>
+</svg>
